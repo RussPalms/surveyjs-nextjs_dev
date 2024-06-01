@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 .yarn/install-state.gz
+.bun/install-state.gz
+.pnpm/install-state.gz
+.npm/install-state.gz
 */node_modules/*
 
 # testing
@@ -23,8 +26,13 @@
 
 # debug
 npm-debug.log*
+error-debug.log*
 yarn-debug.log*
 yarn-error.log*
+bun-debug.log*
+bun-error.log*
+pnpm-debug.log*
+pnpm-error.log*
 
 # local env files
 .env*.local

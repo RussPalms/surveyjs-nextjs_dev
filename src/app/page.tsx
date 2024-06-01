@@ -2,7 +2,7 @@ export default function Homepage() {
 	return (
 		<div className="flex min-h-screen flex-col items-center /*p-24*/">
 			<h1 className="mb-12 text-3xl font-bold tracking-tight md:text-xl xl:text-2xl">
-				SurveyJS + NextJS Quickstart Template
+				LLPMG New Patient Packet
 			</h1>
 			<div className="text-lg text-neutral-500 dark:text-neutral-300">
 				<p>

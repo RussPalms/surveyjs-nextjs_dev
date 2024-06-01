@@ -5,8 +5,6 @@ import Link from "next/link";
  * The shared header component.
  */
 
-// import {confirmAction} from "survey-creator-core"}
-
 export default function Header() {
 	return (
 		<header className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
